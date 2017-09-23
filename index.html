@@ -33,9 +33,6 @@
       </div>
     {% endfor %}
 
-
-
-    <img style='width: 100%' src='img/footer.png'>
     <div id="footer" class="section text-white">
         {% capture foottext %} {% include footer.md %} {% endcapture %}
         {{ foottext | markdownify }}
