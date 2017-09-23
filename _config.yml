@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Holy Quiche"
-keywords:    ""
-description: ""
-source_link: ""
+title:       "Holy Quiche!"
+keywords:    "Quiche French Farmers Market LA Los Angeles"
+description: "Find us at your favorite Farmers Market in Los Angeles or call us for special orders and deliveries."
+source_link: "https://github.com/holyquiche/holyquiche.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
