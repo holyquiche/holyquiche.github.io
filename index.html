@@ -48,9 +48,9 @@
 
 {% include analytics.html %}
 </body>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script>
 {% capture inline_js %}
+{% include jquery.2.1.1.min.js %}
 {% include site.js %}
 {% endcapture %}
 {{ inline_js }}
