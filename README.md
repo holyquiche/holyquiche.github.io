@@ -1,6 +1,8 @@
 About
 ======================
 
+Website for [Holy Quiche](http://holyquiche.com)
+
 Based on [t413.com/SinglePaged](http://t413.com/SinglePaged)
 
 ## Running locally
